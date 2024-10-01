@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\source\\repos\\CADelegate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEE1D48-B7D5-482A-80F9-5C309CC85985}|CADelegate\\CADelegate.csproj|c:\\users\\msi\\source\\repos\\cadelegate\\cadelegate\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CEE1D48-B7D5-482A-80F9-5C309CC85985}|CADelegate\\CADelegate.csproj|solutionrelative:cadelegate\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEE1D48-B7D5-482A-80F9-5C309CC85985}|CADelegate\\CADelegate.csproj|c:\\users\\msi\\source\\repos\\cadelegate\\cadelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CEE1D48-B7D5-482A-80F9-5C309CC85985}|CADelegate\\CADelegate.csproj|solutionrelative:cadelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEE1D48-B7D5-482A-80F9-5C309CC85985}|CADelegate\\CADelegate.csproj|c:\\users\\msi\\source\\repos\\cadelegate\\cadelegate\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CEE1D48-B7D5-482A-80F9-5C309CC85985}|CADelegate\\CADelegate.csproj|solutionrelative:cadelegate\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 125,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\CADelegate\\CADelegate\\Report.cs",
+              "RelativeDocumentMoniker": "CADelegate\\Report.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\CADelegate\\CADelegate\\Report.cs",
+              "RelativeToolTip": "CADelegate\\Report.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAqwCMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T00:46:45.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\CADelegate\\CADelegate\\Employee.cs",
+              "RelativeDocumentMoniker": "CADelegate\\Employee.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\CADelegate\\CADelegate\\Employee.cs",
+              "RelativeToolTip": "CADelegate\\Employee.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T00:46:30.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\CADelegate\\CADelegate\\Program.cs",
+              "RelativeDocumentMoniker": "CADelegate\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\CADelegate\\CADelegate\\Program.cs",
+              "RelativeToolTip": "CADelegate\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T00:45:40.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
